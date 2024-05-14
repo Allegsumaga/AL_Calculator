@@ -1,0 +1,19 @@
+Java Layouts 
+
+Free Design 
+
+Absolute Layout -  It must be included coordinates
+
+Border Layout - Five sections (N,S,E,O,C)
+
+Box Layout - Vertical Distribution from top to the bottom
+
+Card Layout - Distribution in the same zone 
+
+Flow Layout - Distribution in left side to the right side
+
+Grid Bag Layout - Distribution Grid with different sizes 
+
+Grid Layout - Distribution Grid& same sizes
+
+Null Layout - Distribution defined for the developer 
